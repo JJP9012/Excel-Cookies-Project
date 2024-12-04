@@ -72,4 +72,4 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/cookie-sales-analysis.git
+   git clone https://github.com/JJP9012/Excel-Cookies-Project.git
