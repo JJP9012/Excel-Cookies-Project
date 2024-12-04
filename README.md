@@ -26,35 +26,35 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 ### 1️⃣ Total Revenue by Country
 **Insight**: A breakdown of the sum of revenue for each country.  
-![Sum of revenue](https://github.com/user-attachments/assets/3ca961d3-00c4-429e-ae9b-cdc600d0eb97)
+![Screenshot 2024-12-04 173531](https://github.com/user-attachments/assets/a42ee714-55c0-4d0a-a6a4-bf0cc9ef9e2e)
 
 
 ---
 
 ### 2️⃣ Total Units by Product
 **Insight**: Global sales analysis showing how different cookie types contributed to overall cookie sales.  
-![units by product](https://github.com/user-attachments/assets/706a65d8-ab13-420a-b6a0-c2fd5e8682a5)
+![Screenshot 2024-12-04 174738](https://github.com/user-attachments/assets/46751699-f2e6-4581-b6ca-dcf769249aca)
 
 
 ---
 
 ### 3️⃣ Average Profit Margin by Product
 **Insight**: A pie chart showing the profit margin percentage for each cookie type.  
-![Screenshot 2024-12-04 173531](https://github.com/user-attachments/assets/216fb689-a37f-4093-80ec-d8c1e1e3939c)
+![Screenshot 2024-12-04 174353](https://github.com/user-attachments/assets/4b6ecc76-ab15-45e6-99e2-aedab893820e)
+
 
 ---
 
 ### 4️⃣ Total Revenue for each Product over Time
 **Insight**: A look at how cookie sales fluctuated from September to December for each cookie type, identifying the popularity of cookie types, allowing us to make business-minded decisions about which should be continued. 
-![Screenshot 2024-12-04 173531](https://github.com/user-attachments/assets/0fc21b57-0b2d-4c49-9086-ca981b9c5321)
+![Screenshot 2024-12-04 173842](https://github.com/user-attachments/assets/4e460870-d62b-4525-83d8-f1912b83e8b0)
 
 
 ---
 
 ### 5️⃣ Units Sold by Country and Product
 **Insight**: A detailed look at cookie sales by product type for each country. 
-![Screenshot 2024-12-04 173531](https://github.com/user-attachments/assets/7132e2ae-3c9b-4804-8d5d-f91540f1d87a)
-
+![Screenshot 2024-12-04 175439](https://github.com/user-attachments/assets/9077541c-c36c-4339-b636-693b9bb258b9)
 
 
 ---
