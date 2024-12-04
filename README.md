@@ -61,9 +61,10 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 ## 💡 Key Insights
 
-1. **Top-selling Cookie Types**: Chocolate Chip cookies consistently had the highest sales during this period.
-2. **Regional Highlights**: Cities like London and Manchester saw the highest sales, with smaller cities showing more modest figures.
-3. **Seasonal Trends**: Sales peaked around holidays such as Christmas and Easter, showing a clear seasonal pattern in consumer behavior.
+1. **Top-selling Cookie Type**: Chocolate Chip cookie sales consistently performed well in all countries.
+2. **Lowest-selling Cookie Type**: Snickerdoodle cookies had the least units sold within the period.
+3. **Global Highlights**: India saw the highest revenue and units sold.
+4. **Seasonal Trends**: Sales peaked around October, showing a clear seasonal pattern in consumer behavior.
 
 ---
 
