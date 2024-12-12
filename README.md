@@ -33,8 +33,7 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 ### 2️⃣ Total Units by Product
 **Insight**: Global sales analysis showing how different cookie types contributed to overall cookie sales.  
-![Screenshot 2024-12-04 174738](https://github.com/user-attachments/assets/46751699-f2e6-4581-b6ca-dcf769249aca)
-
+![Screenshot 2024-12-04 173842](https://github.com/user-attachments/assets/4e460870-d62b-4525-83d8-f1912b83e8b0)
 
 ---
 
@@ -47,8 +46,7 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 ### 4️⃣ Total Revenue for each Product over Time
 **Insight**: A look at how cookie sales fluctuated from September to December for each cookie type, identifying the popularity of cookie types, allowing us to make business-minded decisions about which should be continued. 
-![Screenshot 2024-12-04 173842](https://github.com/user-attachments/assets/4e460870-d62b-4525-83d8-f1912b83e8b0)
-
+![Screenshot 2024-12-04 174738](https://github.com/user-attachments/assets/46751699-f2e6-4581-b6ca-dcf769249aca)
 
 ---
 
