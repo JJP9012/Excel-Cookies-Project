@@ -68,6 +68,6 @@ In this project, I analyzed a dataset of cookie sales across different countries
 
 ## 🌟 How to Explore the Project
 
-1. Clone this repository:  
+Clone this repository:  
    ```bash
    git clone https://github.com/JJP9012/Excel-Cookies-Project.git
